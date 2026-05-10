@@ -15,7 +15,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-ff6a00?style=for-the-badge&logo=github&logoColor=white)](https://karanyadavhere.github.io/UNISPEAK/)
 [![Firebase](https://img.shields.io/badge/Firebase-10.x-ff6a00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![AI Integration](https://img.shields.io/badge/AI-Planned%20Integration-ff9a3b?style=for-the-badge&logo=openai&logoColor=white)](#-roadmap)
+[![AI Integration](https://img.shields.io/badge/AI-Planned%20Integration-ff6a00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
 <br/>
 
