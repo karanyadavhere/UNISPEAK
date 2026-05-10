@@ -247,6 +247,6 @@ MIT — use it, fork it, build on it. Feel free to use, modify, and build upon t
 
 Built with 🧡 for anyone who wants to speak up and be heard.
 
-**[karanyadavhere.github.io/unispeak](https://karanyadavhere.github.io/unispeak/)** &nbsp;·&nbsp; Made with Firebase + planned AI integration
+**[https://karanyadavhere.github.io/UNISPEAK/](https://karanyadavhere.github.io/unispeak/)** &nbsp;·&nbsp; Made with Firebase + planned AI integration
 
 </div>
