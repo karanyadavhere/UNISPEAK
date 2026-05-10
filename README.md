@@ -13,7 +13,7 @@
 
 **Practice speaking through real interaction.**
 
-[![Live App](https://img.shields.io/badge/live-karanyadavhere.github.io/unispeak-ff6a00?style=for-the-badge&logo=github&logoColor=white)](https://karanyadavhere.github.io/unispeak/)
+[![Live App](https://img.shields.io/badge/live-[karanyadavhere.github.io/unispeak](https://karanyadavhere.github.io/UNISPEAK/)-ff6a00?style=for-the-badge&logo=github&logoColor=white)](https://karanyadavhere.github.io/unispeak/)
 [![Firebase](https://img.shields.io/badge/Firebase-10.x-ff6a00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![AI Integration](https://img.shields.io/badge/AI-Planned%20Integration-ff9a3b?style=for-the-badge&logo=openai&logoColor=white)](#-roadmap)
 [![License](https://img.shields.io/badge/license-MIT-888?style=for-the-badge)](LICENSE)
