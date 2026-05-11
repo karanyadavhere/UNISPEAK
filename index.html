@@ -691,7 +691,7 @@ const WOTD = [
   {word:'Composure',  part:'noun',      meaning:'Calmness and self-control, especially under pressure.',             sentence:'She kept her composure and paused before answering.'}
 ];
 (function renderWotd(){
-  const pick = WOTD[Math.floor(Math.random() * WOTD.length)];
+  const pick = WOTD[Math.floor(Date.now()/86400000) % WOTD.length];
   const set  = (id,v) => { const el=document.getElementById(id); if(el) el.textContent=v; };
   set('wotdWord',pick.word); set('wotdPart',pick.part); set('wotdMeaning',pick.meaning); set('wotdSentence',pick.sentence);
 })();
